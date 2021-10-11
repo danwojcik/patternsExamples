@@ -1,6 +1,6 @@
 # patternsExamples
 ## Przykłady ćwiczeń na najpopularniejsze wzorce projektowe. 
-Podzielone na trzy grupy: behawioralne, kreacyjne i strukturalne.
+## Podzielone na trzy grupy: behawioralne, kreacyjne i strukturalne.
 ## Wzorce behawioralne:
 * chain - Pozwala przekazywać żądania według łańcucha obiektów obsługujących. 
           Otrzymawszy żądanie, każdy z obiektów obsługujących decyduje o zrealizowaniu żądania lub przekazaniu go do swojego następnika w łańcuchu.
