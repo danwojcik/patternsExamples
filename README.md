@@ -1,5 +1,5 @@
 # patternsExamples
-## Przykłady programów, pokazujące działanie najpopularniejszcyh wzorców projektowych. 
+## Przykłady programów, pokazujących działanie najpopularniejszcyh wzorców projektowych. 
 ## Wzorce behawioralne:
 * chain - Pozwala przekazywać żądania według łańcucha obiektów obsługujących. 
           Otrzymawszy żądanie, każdy z obiektów obsługujących decyduje o zrealizowaniu żądania lub przekazaniu go do swojego następnika w łańcuchu.
