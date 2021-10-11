@@ -10,14 +10,14 @@
 * strategy - Pozwala zdefiniować rodzinę algorytmów, umieścić je w osobnych klasach i uczynić obiekty tych klas wymienialnymi.
 * templateMethod - Definiuje szkielet algorytmu w klasie bazowej, 
                    ale umożliwia podklasom nadpisanie poszczególnych etapów algorytmu bez konieczności zmiany jego struktury.
-##Wzorce kreacyjne:
+## Wzorce kreacyjne:
 * abstractFactory - Umożliwia tworzenie rodzin spokrewnionych ze sobą obiektów bez określania ich konkretnych klas.
 * builder - Daje możliwość konstruowania złożonych obiektów krok po kroku. 
             Wzorzec ten pozwala produkować różne typy oraz reprezentacje obiektu używając tego samego kodu konstrukcyjnego.
 * factory - 
 * prototype - Umożliwia kopiowanie istniejących obiektów bez tworzenia zależności pomiędzy twoim kodem, a ich klasami.
 * singelton - Pozwala zachować pewność, że istnieje wyłącznie jedna instancja danej klasy oraz istnieje dostęp do niej w przestrzeni globalnej.
-##Wzorce strukturalne:
+## Wzorce strukturalne:
 * adapter - Pozwala na współdziałanie obiektów o niekompatybilnych interfejsach.
 * composite - Pozwala komponować obiekty w struktury drzewiaste, a potem traktować je tak, jakby były one osobnymi obiektami.
 * decorator - Pozwala nadać dodatkowe obowiązki obiektom poprzez umieszczenie tych obiektów w specjalnych obiektach opakowujących, 
