@@ -14,7 +14,8 @@
 * abstractFactory - Umożliwia tworzenie rodzin spokrewnionych ze sobą obiektów bez określania ich konkretnych klas.
 * builder - Daje możliwość konstruowania złożonych obiektów krok po kroku. 
             Wzorzec ten pozwala produkować różne typy oraz reprezentacje obiektu używając tego samego kodu konstrukcyjnego.
-* factory - 
+* factory - Tworzymy klasę Factory, która bezpośrednio tworzy obiekty. Odpowiedzialność za tworzenie obiektów jest po stronie tej klasy. 
+            Dodawanie, modyfikowanie, utrzymanie kodu jest dość trudne.
 * prototype - Umożliwia kopiowanie istniejących obiektów bez tworzenia zależności pomiędzy twoim kodem, a ich klasami.
 * singelton - Pozwala zachować pewność, że istnieje wyłącznie jedna instancja danej klasy oraz istnieje dostęp do niej w przestrzeni globalnej.
 ## Wzorce strukturalne:
